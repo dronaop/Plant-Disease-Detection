@@ -4,5 +4,14 @@ numpy
 matplotlib
 seaborn
 pandas
+<<<<<<< HEAD
 flask
+=======
+>>>>>>> 99d7f74642c4c858e0a3bc40b3b8d4c5c78d6448
 librosa
+
+<<<<<<< HEAD
+# Your local changes to requirements.txt
+=======
+# Changes in the remote repository (origin/main)
+>>>>>>> origin/main
