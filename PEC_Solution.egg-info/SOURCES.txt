@@ -1,0 +1,7 @@
+setup.py
+PEC_Solution.egg-info/PKG-INFO
+PEC_Solution.egg-info/SOURCES.txt
+PEC_Solution.egg-info/dependency_links.txt
+PEC_Solution.egg-info/requires.txt
+PEC_Solution.egg-info/top_level.txt
+src/__init__.py

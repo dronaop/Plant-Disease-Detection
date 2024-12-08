@@ -7,4 +7,3 @@ pandas
 seaborn
 matplotlib
 Pillow
--e.
